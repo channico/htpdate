@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Label</key>
-	<string>com.clevervest.com.htp.htpdate</string>
+	<string>com.clevervest.htp.htpdate</string>
 	<key>Program</key>
 	<string>/usr/local/bin/htpdate</string>
 	<key>RunAtLoad</key>
