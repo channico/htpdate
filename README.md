@@ -1,4 +1,4 @@
-# htpdate
+# Running htpdate as a daemon on MacOS
 Launchd Configuration file to run htpdate as a daemon
 
 If your Mac computer is behind a firewall and you cannot update your time using the default ntpdate you can use htpdate.
