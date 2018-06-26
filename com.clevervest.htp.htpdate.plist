@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.clevervest.com.htp.htpdate</string>
+	<key>Program</key>
+	<string>/usr/local/bin/htpdate</string>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>KeepAlive</key>
+	<false/>
+	<key>ProgramArguments</key>
+	<array>
+		<string>-D</string>
+		<string>-l</string>
+		<string>www.pool.ntp.org</string>
+		<string>www.microsoft.com</string>
+		<string>www.google.com</string>
+		<string>www.facebook.com</string>
+		<string>www.apple.com</string>
+	</array>
+</dict>
+</plist>
