@@ -9,7 +9,10 @@
 	<key>RunAtLoad</key>
 	<true/>
 	<key>KeepAlive</key>
-	<true/>
+	<dict>
+		<key>NetworkState</key>
+		<true/>
+	</dict>
 	<key>ProgramArguments</key>
 	<array>
 		<string>/usr/local/bin/htpdate</string>
