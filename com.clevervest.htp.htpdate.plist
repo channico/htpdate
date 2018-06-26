@@ -9,7 +9,7 @@
 	<key>RunAtLoad</key>
 	<true/>
 	<key>KeepAlive</key>
-	<false/>
+	<true/>
 	<key>ProgramArguments</key>
 	<array>
 		<string>-D</string>
