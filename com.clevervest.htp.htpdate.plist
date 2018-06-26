@@ -12,6 +12,7 @@
 	<true/>
 	<key>ProgramArguments</key>
 	<array>
+		<string>/usr/local/bin/htpdate</string>
 		<string>-D</string>
 		<string>-l</string>
 		<string>www.pool.ntp.org</string>
